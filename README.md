@@ -2,6 +2,7 @@
 # 📁 FileIconPreview Plugin for Omeka Classic
 
 **FileIconPreview** enhances the visual display of non-image files (e.g. ZIP, PDF, DOCX) in Omeka Classic by showing custom icons based on file extension.
+
 NB : I shared the first working version to my use case, this is definitely not a complete work. 
 ## ✨ Features
 
